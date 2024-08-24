@@ -50,7 +50,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 **Contact**
 
-For any inquiries or further information, please contact [Your Name] at [your email address].
+For any inquiries or further information, please contact Bhuvaneshwaran at bhuvaneshboominathan@gmail.com.
 
 ---
 
