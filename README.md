@@ -23,25 +23,6 @@ This project is focused on developing a real-time driver drowsiness detection sy
 - **Deployment:** Flask (for web-based interface), Docker (optional for containerization)
 - **Version Control:** Git
 
-**Installation**
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/YourUsername/Driver-Drowsiness-Detection.git
-    ```
-2. **Navigate to the project directory:**
-    ```bash
-    cd Driver-Drowsiness-Detection
-    ```
-3. **Install the required dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. **Run the application:**
-    ```bash
-    python main.py
-    ```
-
  **Usage**
 
 1. **Run the application:** Start the system by running the `main.py` file.
